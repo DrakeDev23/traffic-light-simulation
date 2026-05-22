@@ -1,4 +1,4 @@
-var istrue = false;
+let istrue = false;
 
 function redlight(next){
     const red = document.getElementById("red");
