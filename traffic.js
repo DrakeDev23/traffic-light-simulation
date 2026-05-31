@@ -1,5 +1,5 @@
 let istrue = false;
-let num = 0;
+
 function redlight(next){
     const red = document.getElementById("red");
 
